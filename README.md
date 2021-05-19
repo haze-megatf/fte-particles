@@ -5,3 +5,4 @@ Personal repo to hold all of my FTE particles apart from any ongoing integration
          Update old 'newrocks'  
          Make Lite version based of Full version  
          Import & Update Project Q effects  
+         Learn & implement Shaders
